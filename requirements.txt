@@ -1,0 +1,6 @@
+numpy
+requests
+sentence-transformers
+rank-bm25
+ollama
+huggingface-hub
